@@ -60,13 +60,9 @@ nav {
 }
 
 header {
-    /* max-width: 1000px; */
-    height: 60vh;
-    margin: auto;
-    /* background-color: #e9967a42; */
-    background-image: url("/image/banner.jpg");
+    height: 60vh; /* 60% da Viewport Height */
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/01/00/56/news-1172463_1280.jpg");
     background-size: cover;
-
 }
 
 main {
